@@ -1,18 +1,18 @@
-/* :root {
+:root {
   --base: #5E5690;
   --base-light: #7873A7;
   --base-dark: #555184;
   --shadow: #4F4C6B;
   --letter: #d8d7e5;
-} */
+}
 
-:root {
+/* :root {
   --base: #76a88b;
   --base-light: #5cafa4;
   --base-dark: #518477;
   --shadow: #a6a7a6;
   --letter: #d8d7e5;
-}
+} */
 
 * {
   border: 0;
