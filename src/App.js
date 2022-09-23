@@ -72,7 +72,8 @@ function App() {
               >
                 x
               </span>
-              <div className="message">fin.</div>
+              <div className="message">Họp lớp đi các bạn ơi!!!
+              Lớp sắp giải tán đến nơi rồi</div>
             </div>
           </div>
           <div className="shadow"></div>
